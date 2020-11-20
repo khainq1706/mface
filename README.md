@@ -1,16 +1,13 @@
-# [Mask attention - Masked face recognition](https://github.com/khainq1706/mface)
+# [Pairwise differential mask attention - Masked face recognition](https://github.com/khainq1706/mface)
 
 [![Price](https://img.shields.io/badge/price-FREE-0098f7.svg)](https://github.com/khainq1706/mface/blob/main/LICENSE)
 [![License: MIT](https://img.shields.io/badge/license-MIT-grayyellow.svg)](https://github.com/khainq1706/mface/blob/main/LICENSE)
 
-Over 170 responsive design blocks ready to be used in your web or mobile apps. All blocks are based on the Bootstrap Library, and they are the building blocks for beautiful websites.
+This repository includes the code and clearly documentation about a new and efficient approach for masked face recognition, named pairwise differential mask attention (PDMA). Our implementation is done for all expirements: train the baseline CNN, train the mask attention block, build the mask, binarize the mask, finetune the network with the built mask, evaluation and the demo using our model.
 
-**Discuss it on [Product Hunt](https://www.producthunt.com/posts/froala-design-blocks-2-2) 🦄**
+**[Issues Thread](https://github.com/khainq1706/mface/issues) 🦄**
+I think it is difficult to make a doc for everyone use without error. So, if you get any issues, please let me know on *issues*, I will respond it carefuly.
 
-<p><a href="https://www.froala.com/design-blocks/webpage-builder">Design Blocks Builder »</a></p>
-<p><a href="https://www.froala.com/wysiwyg-editor">WYSIWYG HTML Editor</a> · <a href="https://www.froala.com/pages">Pages</a> · <a href="https://www.froala.com/blog">Blog</a> · <a href="https://github.com/froala/design-blocks/archive/master.zip">Download</a></p>
-
-![Design Blocks](https://raw.githubusercontent.com/froala/design-blocks/master/design-blocks.jpg)
 
 ## Table of contents
 
