@@ -1,4 +1,4 @@
-# [Mask attention - Masked face recognition]
+# [Mask attention - Masked face recognition](https://github.com/khainq1706/mface)
 
 [![Price](https://img.shields.io/badge/price-FREE-0098f7.svg)](https://github.com/khainq1706/mface/blob/main/LICENSE)
 [![License: MIT](https://img.shields.io/badge/license-MIT-grayyellow.svg)](https://github.com/khainq1706/mface/blob/main/LICENSE)
